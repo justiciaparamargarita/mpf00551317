@@ -8,8 +8,13 @@ Deriva de: [MPF00462972](https://github.com/justiciaparamargarita/mpf00462972)
 
 ## Archivos
 
+- 2021-02-08 [Denuncia](2021/02/08/denuncia.e1686.md)
+- 2021-02-08 [Expediente](2021/02/08/expediente.e1686.md)
 - 2021-02-22 [Fiscalia ufnorte decreto archivo](2021/02/22/fiscalia_ufnorte_decreto_archivo.e0472.md)
 - 2021-02-22 [Formulario solicitud revision archivo](2021/02/22/formulario_solicitud_revision_archivo.e0472.md)
 - 2021-02-22 [Mail «RESOLUCIÓN DEN00716161 “s/Nombre S/infr. Art 249, C.P.”» · yo → organismosutcnorte@](2021/02/22/hilo-resolucion-den00716161-s-nombre-s-infr-a.e0472.md)
 - 2026-11-13 [Mail «Solicito copia íntegra del expediente» · yo → fiscaliapcyf18@](2026/11/13/solicito-copia-integra-del-expediente.e1634.md)
 - 2026-11-17 [Mail «Solicito copia íntegra del expediente» · cladoux@ → yo](2026/11/17/solicito-copia-integra-del-expediente.e1665.md)
+- 2026-11-19 [Mail «Solicito copia íntegra del expediente» · yo → uitnorte@](2026/11/19/solicito-copia-integra-del-expediente.e1682.md)
+- 2026-11-20 [Mail «Solicito copia íntegra del expediente» · cladoux@ → yo](2026/11/20/solicito-copia-integra-del-expediente.e1685.md)
+- 2026-11-20 [Mail «Solicito copia íntegra del expediente» · uitnorte@ → yo](2026/11/20/solicito-copia-integra-del-expediente.e1686.md)

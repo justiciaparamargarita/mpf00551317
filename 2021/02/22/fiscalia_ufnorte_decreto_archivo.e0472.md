@@ -4,6 +4,7 @@ expediente: "MPF00551317"
 original_filename: "DecretoArchivo-DEN00716161-1614011993.pdf"
 fecha_creacion_pdf: "2021-02-22T13:39:53-03"
 origen_email: "fuentes/emails/fiscalias.gob.ar/resolucion-den00716161-s-nombre-s-infr-a.e0472.eml"
+firma_digital: "ADRIAN PATRICIO GRASSI Feb 22 2021 13:39:54; firma: Signature is Valid.; certificado: Certificate has Expired"
 ---
 
 MPF CABA
